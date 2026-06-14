@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ElevateU",
+  "description": "An AI-powered academic recovery, multi-semester GP tracking, and micro-quest gamified companion system designed to boost graduation paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
