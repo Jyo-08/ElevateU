@@ -4,6 +4,8 @@
 
 ElevateU is an AI-powered academic recovery and student success platform designed to help learners identify academic challenges, improve performance, build confidence, and achieve long-term educational goals. The platform combines artificial intelligence, academic analytics, personalized planning, and gamified progress tracking to create a structured path toward academic growth.
 
+## Website link : https://elevateu-m6ji.onrender.com/
+
 ## Problem Statement
 
 Students often face declining academic performance, lack of motivation, inconsistent study habits, academic stress, and uncertainty regarding future goals. While many educational tools focus on productivity and content delivery, few provide comprehensive support for academic recovery, confidence building, and personalized improvement strategies.
